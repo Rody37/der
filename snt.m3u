@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1 https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Undefined", Unicanal (720p) [Not 24/7]
+http://45.55.127.106/live/unicanal.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KOA TV
+https://panel.dattalive.com/8028/8028/playlist.m3u8
+
+#EXTINF:-1, https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
+
+#EXTINF:-1, https://d4xunn272arip.cloudfront.net/hls/snt_270.m3u8
+
+#EXTINF:-1, https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
